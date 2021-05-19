@@ -5,5 +5,5 @@ Introduction to computer organization and architecture. Combinational devices, s
 
 #### Notes:
 This repository contains all my coursework for Computer Organization.
- * **Semester Taken:** Fall 2020
+ * **Semester Taken:** Spring 2020
  * **Grade:** A
